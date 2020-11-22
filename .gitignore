@@ -1,5 +1,6 @@
 styles/styles.scss
 styles/styles.css.map
 blog/blog.html
-blog/blog.js
+js/blog.js
 blog/debug.log
+js/modal.js
